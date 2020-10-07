@@ -2,7 +2,7 @@
 Esse programa foi feito para o estudo dos Algoritimos de escalonamento de processos da matéria de Sistemas Operacionais do Curso de Ciências da Computação da UniCEUB Brasilia, o código foi feito em `C`.
 
 ----------------------------------
-Informação dos Autores
+Informação do Autor
 ----------------------------------
 Nome: Angelo Soares Dorfey\
 E-mail: usbangelo@sempreceub.com
